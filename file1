@@ -1,0 +1,1 @@
+In this project, we'll set up a Jenkins CI/CD pipeline that automates the deployment of a Dockerized application onto EC2 instances. We'll us a declarative pipeline and integrate it with GitHub webhooks too trigger automated builds and deployments whenever code changes are pushed too the repository.
